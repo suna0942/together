@@ -12,5 +12,8 @@
 	<!-- suna start -->
 	<a href="<%= request.getContextPath() %>/suna0942">suna0942추가</a>
 	<!-- suna end -->
+	<!-- misong start -->
+	<a href="<%= request.getContextPath() %>/msServlet">misong테스트중..</a>
+	<!-- misong end -->
 </body>
 </html>
