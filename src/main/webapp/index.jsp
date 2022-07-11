@@ -8,7 +8,9 @@
 </head>
 <body>
 	<h1>Together</h1>
+<<<<<<< HEAD
 	<a href="<%= request.getContextPath() %>/helloworld">/helloworld</a>
 	<a href="<%= request.getContextPath()%>/shinyukyung">shinyukyung</a>
+	<a href="<%= request.getContextPath() %>/suna0942">suna0942추가</a>
 </body>
 </html>
